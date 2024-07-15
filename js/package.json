@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "moment": "^2.30.1"
+  },
+  "name": "js",
+  "version": "0.1.0",
+  "description": "js study",
+  "main": "index.js\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;6D\u001b[1;6D\u001b[1;6D\u001b[1;\u001b[C\u001bcall_apply_bind.js)\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "keywords": [
+    "js"
+  ],
+  "author": "jade",
+  "license": "ISC"
+}
